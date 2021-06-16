@@ -1,0 +1,16 @@
+canvas{
+    border:1px dotted black;
+  }
+  body{
+    background:rgb(164, 150, 241);
+  }
+  #x{
+    background:lightsteelblue;
+    border:1px dotted black;
+    height:35px;
+    width:100px;
+    margin:10px;
+  }
+  #img{
+    background:orange;
+  }
